@@ -15,6 +15,16 @@ GeckoTerminal from the moment it is created.
 - X: https://x.com/Nearpaid
 - Telegram: https://t.me/nearpaid
 
+## $NPAID, the NearPaid coin
+
+| | |
+|---|---|
+| Contract address | `npaid-831d2b.nearpaid.near` |
+| Trade | https://nearpaid.com/t/npaid-831d2b.nearpaid.near |
+| Pair | NEAR, on Rhea |
+
+Other coins can use the same symbol. Always check the contract address.
+
 ## What this repository contains
 
 | Path | What it is |
@@ -39,6 +49,7 @@ Every NearPaid coin runs the same global contract. Its code hash on mainnet is
 | Locker (zero access keys, holds every pool position) | `lock.nearpaid.near` |
 | Coins | `<symbol>-<hex6>.nearpaid.near` |
 | Treasury | `nearpaidprotocol.near` |
+| $NPAID coin | `npaid-831d2b.nearpaid.near` |
 | Rhea DCL | `dclv2.ref-labs.near` |
 
 ## Fees, in short
