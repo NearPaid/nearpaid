@@ -1,0 +1,16 @@
+NearPaid Source-Available License
+
+Copyright (c) 2026 NearPaid. All rights reserved.
+
+Permission is granted to view, download and build this source code for the sole purposes of
+reviewing, auditing and verifying the NearPaid contracts deployed on the NEAR blockchain, and of
+integrating NearPaid coins into wallets, indexers, analytics tools and other applications that
+read or trade them.
+
+Except as stated above, no permission is granted to copy, modify, publish, distribute,
+sublicense or deploy this code or any derivative of it, including to run, offer or operate a
+token launchpad or any similar service.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT
+SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF
+THE SOFTWARE.

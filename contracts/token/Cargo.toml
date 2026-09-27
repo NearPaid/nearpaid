@@ -1,0 +1,18 @@
+[package]
+name = "nearpaid-token"
+version = "0.2.0"
+edition = "2021"
+publish = false
+description = "NearPaid launch token: lean NEP-141 with burn and optional holder rewards (no SDK, small global contract)"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+
+[lints.rust.unexpected_cfgs]
+level = "warn"
+check-cfg = ["cfg(near)"]
+
+[package.metadata.near]
+min_protocol_version = 84
