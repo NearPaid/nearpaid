@@ -1,6 +1,10 @@
-# NearPaid
+<p align="center">
+  <a href="https://nearpaid.com"><img src="brand/banner.webp" alt="NearPaid - Launch a coin. Fees get paid." width="100%"></a>
+</p>
 
-**Launch a coin. Fees get paid.**
+<h1 align="center"><img src="brand/logo.png" alt="" width="28" valign="middle"> NearPaid</h1>
+
+<p align="center"><b>Launch a coin. Fees get paid.</b></p>
 
 NearPaid is a token launchpad on [NEAR](https://near.org). Every coin launches with its full
 1,000,000,000 supply in one locked [Rhea](https://rhea.finance) liquidity pool from the first
